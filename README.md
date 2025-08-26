@@ -1,6 +1,6 @@
 # 🎮 MIPS Assembly Tetris
 
-📺 **Demo Video**: [Watch here]([https://youtube.com/yourlink](https://youtu.be/wEAbautBheI?si=n6ZmaVC7RktL9r8s))
+📺 **Demo Video**: [Watch here]([https://youtu.be/wEAbautBheI?si=n6ZmaVC7RktL9r8s])
 
 A fully-functional Tetris game implemented in MIPS assembly language for CSCB58 at University of Toronto.
 
